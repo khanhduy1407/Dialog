@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#03a9f4</color>
+    <color name="secondary">#137BAA</color>
+    <color name="overlay_light">#F8F8F8</color>
+</resources>
